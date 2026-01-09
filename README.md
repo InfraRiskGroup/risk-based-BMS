@@ -29,3 +29,13 @@ This folder contains USGS hazard curves at each bridge site, considering the NEH
 ## Script: `weighted_scenario.py`
 
 Given the package `pyRiskTable` and input folders(`bridge-info` and `USGS-data`), running `weighted_scenario.py` can generate risk tables for all ODOT-owned bridges and a summary file for the risks of all bridges.
+
+## License
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
+
+You are free to use, modify, and distribute this software, but if you do, **you must open-source your entire project** under the same license. This requirement applies even if you run the software over a network (e.g., as a web service) without distributing the executable.
+
+See the [LICENSE](LICENSE) file for details.
